@@ -14,4 +14,9 @@ public class MainActivity extends AppCompatActivity {
     setContentView(R.layout.activity_main);
     Log.d(TAG, "Created activity");
   }
+
+  @Override
+  protected void onResume() {
+    super.onResume();
+  }
 }
