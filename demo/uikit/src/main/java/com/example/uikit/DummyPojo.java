@@ -1,4 +1,4 @@
-package com.example.commons;
+package com.example.uikit;
 
 
 public class DummyPojo {
