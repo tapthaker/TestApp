@@ -1,1 +1,1 @@
-include ':app', ':commons', ':uikit', ':network'
+include ':app', ':commons', ':uikit', ':network', ':testutils'
