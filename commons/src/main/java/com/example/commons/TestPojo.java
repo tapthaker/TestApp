@@ -1,5 +1,5 @@
 package com.example.commons;
 
 public class TestPojo {
-  private String name;
+  private String nameChange;
 }
