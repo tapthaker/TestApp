@@ -3,7 +3,7 @@ package com.example.commons;
 public class TestPojo {
   private String name;
 
-  public TestPojo(Integer namePojo) {
+  public TestPojo(String namePojo) {
 
   }
 }
