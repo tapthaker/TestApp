@@ -1,15 +1,12 @@
 package com.example.uikit;
 
 
-import com.example.commons.TestPojo;
-
 public class DummyPojo {
 
   private String name;
 
   public DummyPojo(String name) {
     this.name = name;
-    TestPojo pojo = new TestPojo(2);
   }
 
   public String getName() {
