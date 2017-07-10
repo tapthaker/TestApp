@@ -9,7 +9,7 @@ public class DummyPojo {
 
   public DummyPojo(String name) {
     this.name = name;
-    new TestPojo("");
+    new TestPojo("j");
   }
 
   public String getName() {
