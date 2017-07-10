@@ -8,6 +8,6 @@ public class NetworkPojo {
 
   public NetworkPojo(String namePojo) {
     this.namePojo = namePojo;
-    TestPojo testPojo = new TestPojo(1);
+    TestPojo testPojo = new TestPojo("");
   }
 }
