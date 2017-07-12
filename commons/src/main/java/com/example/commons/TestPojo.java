@@ -4,6 +4,6 @@ public class TestPojo {
   private String name;
 
   public TestPojo(String namePojo) {
-    System.out.println("fh");
+    System.out.println("fhkk");
   }
 }
