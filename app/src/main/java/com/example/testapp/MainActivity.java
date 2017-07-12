@@ -5,6 +5,6 @@ public class MainActivity extends BaseActivity {
   @Override
   protected void onResume() {
     super.onResume();
-    System.out.println("");
+    System.out.println("main");
   }
 }
